@@ -15,5 +15,6 @@ This repo contains **Databricks DBC exports** along with **HTML outputs**, showc
 
 ## 📂 Structure
 
+- `📁 dbc_notebooks/`: Databricks notebook exports (.dbc) 
 - `📁 data/`: Sample datasets used in the notebooks 
 - `📄 README.md`: Detailed information about the repo.
